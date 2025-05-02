@@ -47,4 +47,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
+HEAD
 This project uses several resources from online tutorials and open-source libraries to enhance functionality.
+
+This project uses several resources from online tutorials and open-source libraries to enhance functionality.
+b6173d1bf2527b6f8cb348af50c4934c8843de89
